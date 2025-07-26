@@ -2,7 +2,7 @@
 
 **Simplicity is not a constraint. It’s a direction.**
 
-At QL4B, we’re not just writing Bash functions — we’re exploring a way of working. One where the environment is *not handed to us* by convention, frameworks, or trends — but *shaped by us*, based on what we know, what we value, and what we want to build.
+At QL4B, we’re defining an environment of our own — one that supports the way we think and build. One where the environment is *not handed to us* by convention, frameworks, or trends — but *shaped by us*, based on what we know, what we value, and what we want to build.
 
 ## We Build Our Own Environment
 
@@ -23,7 +23,7 @@ We are building:
 
 This leads to systems that are:
 - **Local in spirit**, yet scalable in practice  
-- **Simple**, but not simplistic  
+- **Streamlined**, yet deeply capable  
 - **Custom**, but not fragile
 
 ## It’s Not About Bash — It’s About Meaning
